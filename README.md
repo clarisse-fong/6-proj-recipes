@@ -1,2 +1,6 @@
-# Recipe Tracker Project
-In this project we used our knowledge of react, forms, and useState to build a recipe tracker where you can add and delete recipes. 
+# Recipe Tracker Application 
+* Built a React application to allow saving recipe information.
+* Implemented the single responsibility principle with React components.
+
+
+Technology: React, HTML5, CSS, Bootstrap
